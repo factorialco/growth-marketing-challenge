@@ -1,4 +1,4 @@
-**Welcome to the Growth Marketing Challenge!**
+## Welcome to the Growth Marketing Challenge!
 
 At Factorial, our Growth team isn't just building features; we are building **engines for acquisition**. We look for engineers who think like marketers, act like data scientists, and code with a focus on impact.
 
