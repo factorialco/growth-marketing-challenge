@@ -12,7 +12,7 @@ In this challenge, we want to see how you balance **speed to market** with **tec
 
 ### **Your Objective:**
 
-During the session you will design and prototype a MOFU (Middle of Funnel) solution that focuses on **lead capture and experimentation**.
+This is a live coding challenge. During the session you will design and prototype a solution that focuses on **lead capture and experimentation**.
 
 **Things to consider (and for us to discuss):**
 
@@ -22,16 +22,12 @@ During the session you will design and prototype a MOFU (Middle of Funnel) solut
 
 ### What to prepare
 
-We want to spend our time together solving problems, not configuring environments. Please prepare the **bare minimum** so we can hit the ground running:
+We want to spend our time together solving problems, not configuring environments. Factorial is AI First, so we expect you to use AI during the challenge (full agentic-mode included).
 
-- **The Setup:** Please have a basic project ready to go, **NextJS preferably**. To save time, please have a very simple "Problematic" Landing Page ready. It should just have:
-    - A generic headline.
-    - A **single-step form** with ~10 fields (Name, Email, Phone, Company, Revenue, etc.).
-    - A basic `/thank-you` route to redirect to.
-    - *(Feel free to use v0, Cursor, or any AI to generate this boilerplate in seconds!)*
+- **The Setup:** Please clone the project and have it ready to go, we will ask you to share your screen. You can explore the code as much as you want.
 - **The Toolkit:** Bring your AI coding partners (Cursor, Claude, etc.). We want to see how you leverage these to move fast and skip the boilerplate.
 - **The Mindset:** Be ready to challenge Marcus (your interviewer). If his idea seems slow to implement or unlikely to convert, tell him why and suggest an alternative.
 
 ### What to expect
 
-The whole session will take up to **2 hours** and is intended to be collaborative. We aren’t looking for a finished, polished product. We care about **how you structure problems, ask questions, and reason about solutions.**
+The whole session can take up to **2 hours** (usually around 1 and a half) and is intended to be collaborative. We aren’t looking for a finished, polished product. We care about **how you structure problems, ask questions, and reason about solutions.**
